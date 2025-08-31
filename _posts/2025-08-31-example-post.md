@@ -1,21 +1,24 @@
+```
 layout: post
-title: "{{POST_TITLE}}"
-date: {{POST_DATE}}
-categories: [{{POST_CATEGORIES}}]
-tags: [{{POST_TAGS}}]
+title: Example Post title
+date: 2025-08-31
+categories: [ai]
+tags: [ai]
+```
 
-# {{POST_TITLE}}
+Example Post title
 
 ## Introduction
-{{POST_INTRODUCTION}}
+
+This is an Introduction section
 
 ## Main Content
-{{POST_CONTENT}}
+Main content goes here
 
 ## Key Points
-- {{KEY_POINT_1}}
-- {{KEY_POINT_2}}
-- {{KEY_POINT_3}}
+- Key point 1
+- key point 2
+- key point 3
 
 ## Conclusion
-{{POST_CONCLUSION}}
+Conclusion goes here
